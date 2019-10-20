@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Guia5</string>
+    <string name="title_activity_conversations">Conversations</string>
+    <string name="Contac1">David Garcia, Rich...</string>
+    <string name="Descrip1">See you guys soon!</string>
+    <string name="Hora1">6:20 AM</string>
+    <string name="Contac2">Jennifer Gonzalez</string>
+    <string name="Descrip2">I am really excited </string>
+    <string name="Hora2">6:09 AM</string>
+    <string name="Contac3">maria-smith@mail...</string>
+    <string name="Descrip3">When will you be there</string>
+    <string name="Hora3">5:16 AM</string>
+    <string name="Contac4">The family</string>
+    <string name="Descrip4">When\'s our next vacation?</string>
+    <string name="Hora4">1:51 AM</string>
+    <string name="Contac5">*1 123-456-78-90</string>
+    <string name="Descrip5">See you guys soon!</string>
+    <string name="Hora5">Yesterday</string>
+    <string name="Contac6">Roberto Jones</string>
+    <string name="Descrip6">See you guys soon!</string>
+    <string name="Hora6">Yesterday</string>
+    <string name="Contac7">David Garcia</string>
+    <string name="Descrip7">See you guys soon!</string>
+    <string name="Hora7">Yesterday</string>
+
+    <string name="Barra">-</string>
+    <string name="tittle">Conversations</string>
+    <string name="Time">Time</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnCalculadora">Calculadora</string>
+    <string name="v">v</string>
+    <string name="pi">π</string>
+    <string name="User">Usuario</string>
+    <string name="Password">Password</string>
+    <string name="FPassword">Forgot Password?</string>
+    <string name="Calculadora1">123 + 456 = 579</string>
+    <string name="Calculadora2"> 3.1415926535897932384626433832795</string>
+    <string name="Plan">Plan</string>
+</resources>

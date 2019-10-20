@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorCeleste">#3490C0</color>
+    <color name="colorBlanco">#ffffff</color>
+    <color name="colorGisOscuro">#263238</color>
+    <color name="colorGisOscuro1">#37474F</color>
+    <color name="colorGisClaro">#546E7A</color>
+    <color name="colorMenta">#84FFFF</color>
+    <color name="colorBarra">#afbdc4</color>
+</resources>
